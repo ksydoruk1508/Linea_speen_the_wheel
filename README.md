@@ -2,7 +2,6 @@
 
 ![Made with](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![OS](https://img.shields.io/badge/OS-Ubuntu%2020.04%2F22.04-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
