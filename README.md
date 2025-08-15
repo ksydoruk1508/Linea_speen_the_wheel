@@ -22,9 +22,20 @@ Supports a **bilingual interface (RU/EN)** and provides a clean output table wit
 
 ### 📂 Requirements
 - Python **3.10+**
-- Installed dependencies from `requirements.txt`
+- Download and proceed to derictory
+```bash
+git clone https://github.com/ksydoruk1508/Linea_speen_the_wheel.git && cd Linea_speen_the_wheel
+```
+- Install dependencies from `requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 - Wallets stored in `private_keys.txt`
 - HTTP proxies stored in `proxies.txt` (format: `user:pass@ip:port`)
+- Launch the script
+```bash
+python spin_linea.py
+```
 
 ### 🛠 Support & Contacts
 - **Telegram chat:** [@nod3r_team](https://t.me/nod3r_team)  
@@ -50,9 +61,20 @@ Supports a **bilingual interface (RU/EN)** and provides a clean output table wit
 
 ### 📂 Требования
 - Python **3.10+**
-- Установленные зависимости из `requirements.txt`
+- Скачайте и перейдите в директорию
+```bash
+git clone https://github.com/ksydoruk1508/Linea_speen_the_wheel.git && cd Linea_speen_the_wheel
+```
+- Установите зависимости из `requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 - Кошельки в файле `private_keys.txt`
 - HHTP прокси в файле `proxies.txt` (формат: `user:pass@ip:port`)
+- Запустите скрипт
+```bash
+python spin_linea.py
+```
 
 ### 🛠 Поддержка и контакты
 - **Telegram-чат:** [@nod3r_team](https://t.me/nod3r_team)  
